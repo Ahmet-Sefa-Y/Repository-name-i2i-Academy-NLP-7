@@ -54,7 +54,3 @@ i2i-Academy-NLP-7
 ## Output
 
 The application creates `outputs/sentiment_results.csv`, which includes the original review text, cleaned text, sentiment score, and sentiment label.
-
-## Author
-
-Uğur A.
